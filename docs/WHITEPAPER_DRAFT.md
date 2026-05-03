@@ -9,12 +9,22 @@ Synthetic DUAT laboratory skeleton for residue, calibration, event-store and art
 | field | value |
 |---|---|
 | repo | `duat-lab` |
-| status | `STAGED_LOCAL_ONLY_RESEARCH_BOUNDARY` |
+| status | `PUBLIC_GITHUB_RESEARCH_BOUNDARY` |
 | license | MIT License for this sanitized public skeleton. |
 | fixtures | synthetic only |
 | private boundary | see `PRIVATE_EXCLUSIONS.md` |
 
+## Lab Rule
+
+No speculative model is promoted as truth. A DUAT lab result should say:
+
+- what it reproduces;
+- what it fails;
+- what evidence is missing;
+- what would falsify it;
+- which artifact is safe to publish.
+
 ## Validation
 
-Public release requires tests or reproducible demo, secret scan, path scrub,
+Public expansion requires tests or reproducible demos, secret scan, path scrub,
 claims scan and ActionGate approval.
