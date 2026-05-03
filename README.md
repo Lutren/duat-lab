@@ -2,8 +2,8 @@
 
 Synthetic DUAT laboratory skeleton for residue, calibration, event-store and artifact-memory experiments.
 
-Status: `STAGED_LOCAL_ONLY_RESEARCH_BOUNDARY`. This staging repo is local-only until secret
-scan, path scrub, claims scan, license review and ActionGate approval pass.
+Status: `STAGED_LOCAL_ONLY_RESEARCH_BOUNDARY`. This staging repo is local-only until current
+secret scan, path scrub, claims scan and ActionGate approval pass.
 
 ## What This Includes
 
@@ -17,7 +17,7 @@ See `PRIVATE_EXCLUSIONS.md`.
 
 ## License
 
-MIT or Apache-2.0 candidate; legal review required before public release.
+MIT License for this sanitized public skeleton.
 
 ## Next Steps
 

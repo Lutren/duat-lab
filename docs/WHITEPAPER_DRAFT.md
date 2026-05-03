@@ -10,7 +10,7 @@ Synthetic DUAT laboratory skeleton for residue, calibration, event-store and art
 |---|---|
 | repo | `duat-lab` |
 | status | `STAGED_LOCAL_ONLY_RESEARCH_BOUNDARY` |
-| license | MIT or Apache-2.0 candidate; legal review required before public release. |
+| license | MIT License for this sanitized public skeleton. |
 | fixtures | synthetic only |
 | private boundary | see `PRIVATE_EXCLUSIONS.md` |
 
