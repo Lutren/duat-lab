@@ -38,6 +38,20 @@ The first demo is intentionally practical:
 
 Read: [`docs/DEMO_AGENT_REVIEW.md`](docs/DEMO_AGENT_REVIEW.md)
 
+## Observacionismo Lab Direction
+
+The next research lane is an observer-aware falsifier workflow. It asks whether
+a claim still survives after the source is registered, the observer/proxy is
+declared, baselines are compared, negative controls are added and claim language
+is downgraded when the result fails.
+
+Current local evidence is a useful negative result: a PSI-style hypothesis did
+not win the recorded SPARC leaderboard against RAR/McGaugh-style baselines. That
+does not prove final physics; it proves the gate is allowed to say "no" to the
+author's own preferred hypothesis.
+
+Read: [`docs/OBSERVACIONISMO_LAB_NOTES.md`](docs/OBSERVACIONISMO_LAB_NOTES.md)
+
 ## Next Steps
 
 - Add executable replay scripts for the synthetic demo.

@@ -8,6 +8,8 @@
 - Demonstrates how a high-impact synthetic report can be routed to review when
   sources are missing.
 - Documents toy-model falsifier architecture.
+- Documents local negative-result handling for PSI-style hypotheses without
+  promoting the result into a physics proof.
 
 ## Prohibited Claims
 
@@ -20,3 +22,5 @@
 - No RPG, MEDIOEVO canon, WorldPulse runtime or private game material.
 - No claim that the synthetic review demo is medical advice or clinical
   validation.
+- No claim that SPARC toy/local runs settle MOND, dark matter, RAR, Newton,
+  Einstein or PSI-style physics.
